@@ -1,0 +1,29 @@
+.CEPBox{
+    border-radius: 10px;
+    background-color: #ffffff;
+    position: fixed;
+    animation-name: CEPAnim;
+    animation-duration: 0.3s;
+    min-width: 250px;
+}
+
+.CEPBox p, .CEPBox button{
+    padding: 1px;
+    margin: 10px;
+}
+
+.titleCPFBox{
+    background-color: #d3d3d3;
+    font-weight: 700;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+@keyframes CEPAnim{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
