@@ -7,6 +7,7 @@ Site feito em React no qual mostra um endereço de acordo com o CEP digitado.
   <img src="https://skills.thijs.gg/icons?i=css">
   <img src="https://skills.thijs.gg/icons?i=js">
   <img src="https://skills.thijs.gg/icons?i=react">
+  <img src="https://skills.thijs.gg/icons?i=nodejs">
 </div>
 
 #### :bookmark: IDE utilizada:
