@@ -1,6 +1,8 @@
 # :cityscape: REACT-PLACE-FINDER
 Site feito em React no qual mostra um endereço de acordo com o CEP digitado.
 
+<img src="https://img.shields.io/github/last-commit/matheusfladislau/REACT-PLACE-FINDER?style=for-the-badge" />
+
 ## :computer: Tecnologias:
 <div>
   <img src="https://skills.thijs.gg/icons?i=html">
