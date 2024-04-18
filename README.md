@@ -1,9 +1,9 @@
-# :cityscape: REACT-PLACE-FINDER
-Site feito em React no qual mostra um endereço de acordo com o CEP digitado.
+# :cityscape: PLACE-FINDER
+A simple page made in REACT where an address is shown according to the typed brazillian zip code. 
 
 <img src="https://img.shields.io/github/last-commit/matheusfladislau/REACT-PLACE-FINDER?style=for-the-badge" />
 
-## :computer: Tecnologias:
+## :computer: Technologies:
 <div>
   <img src="https://skills.thijs.gg/icons?i=html">
   <img src="https://skills.thijs.gg/icons?i=css">
@@ -12,9 +12,5 @@ Site feito em React no qual mostra um endereço de acordo com o CEP digitado.
   <img src="https://skills.thijs.gg/icons?i=nodejs">
 </div>
 
-#### :bookmark: IDE utilizada:
-  <img src="https://skills.thijs.gg/icons?i=vscode">
-  
-
-###### Tela principal do site
+###### Main page
 <img style="height: 100%;" src="https://github.com/matheusfladislau/REACT-PLACE-FINDER/blob/master/images/project.png">
