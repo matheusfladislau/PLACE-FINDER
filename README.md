@@ -1,7 +1,7 @@
 # :cityscape: PLACE-FINDER
 A simple page made in REACT where an address is shown according to the typed brazillian zip code. 
 
-<img src="https://img.shields.io/github/last-commit/matheusfladislau/REACT-PLACE-FINDER?style=for-the-badge" />
+<img src="https://img.shields.io/github/last-commit/matheusfladislau/PLACE-FINDER?style=for-the-badge" />
 
 ## :computer: Technologies:
 <div>
